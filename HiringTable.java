@@ -2,10 +2,6 @@
 * The {@code HiringTable} class represents a table of job applicants.
 * It stores an array of {@code Applicant} objects and provides methods for
 * adding, removing, retrieving, and searching for applicants.
-* @author Manas Singh 
-*    e-mail: anshumaan.singh@stonybrook.edu
-*    Stony Brook ID: 115426564
-*    Recitation : R02
 **/
 
 public class HiringTable implements Cloneable{
