@@ -2,12 +2,7 @@
 * The {@code HiringSystem} class provides a menu-driven interface for managing
 * a hiring table of job applicants.
 * It allows users to add, remove, retrieve, search, and backup applicant data.
-* 
-* @author Manas Singh 
-*    e-mail: anshumaan.singh@stonybrook.edu
-*    Stony Brook ID: 115426564
-*    Recitation : R02
-**/
+*/
 
 import java.util.Arrays;
 import java.util.InputMismatchException;
