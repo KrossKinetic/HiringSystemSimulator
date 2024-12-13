@@ -2,12 +2,6 @@
 * The <code>Applicant</code> class implements a fully-documented class named Applicant for a 
 * job application which contains the Company Name (String[]), Applicant Name (String), GPA (double), 
 * College (String), and Skills (String[]).
-*
-* @author Manas Singh 
-*    e-mail: anshumaan.singh@stonybrook.edu
-*    Stony Brook ID: 115426564
-*    Recitation : R02
-*    
 */
 
 public class Applicant implements Cloneable{
