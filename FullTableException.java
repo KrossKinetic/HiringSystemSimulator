@@ -1,11 +1,6 @@
 /**
  * The {@code FullTableException} class represents an exception that is thrown when
  * the hiring table is full and a new applicant cannot be added.
- * 
- * @author Manas Singh
- *    e-mail: anshumaan.singh@stonybrook.edu
- *    Stony Brook ID: 115426564
- *    Recitation : R02
  */
 public class FullTableException extends Exception {
     /**
